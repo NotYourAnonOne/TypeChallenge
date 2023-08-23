@@ -14,12 +14,12 @@ If Perl is not installed, you can download it from the official Perl website: [h
 
 ## How to Run
 
-1. Clone this repository or download the `typing_speed_game.pl` file.
-2. Open a terminal and navigate to the directory where the `typing_speed_game.pl` file is located.
+1. Clone this repository or download the `TypeChallenge.pl` file.
+2. Open a terminal and navigate to the directory where the `TypeChallenge.pl` file is located.
 3. Run the following command:
 
 ```
-perl typing_speed_game.pl
+perl TypeChallenge.pl
 ```
 
 4. Follow the instructions on the screen to play the game.
